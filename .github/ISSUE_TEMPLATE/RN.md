@@ -1,8 +1,4 @@
-name: "Regra de Negócio (RN)"
-about: Descrever uma regra obrigatória que afeta o comportamento do sistema
-title: "RNXX — "
-labels: ["Regra-de-Negócio"]
----
+
 
 # 📘 Regra de Negócio — RNXX  
 (Altere RNXX para o número apropriado)
