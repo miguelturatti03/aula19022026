@@ -1,4 +1,4 @@
-
+---
 
 # 📘 Regra de Negócio — RNXX  
 (Altere RNXX para o número apropriado)
